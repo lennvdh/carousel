@@ -1,0 +1,9 @@
+body {
+    background-color: #20222e;
+}
+h1 {
+    margin: auto;
+    color: #56fc03;
+    width: 100%;
+    background: rgba(166, 166, 166, 0.5)
+}
